@@ -1,3 +1,5 @@
+package part1;
+
 // 1.2
 public class Printing {
   public static void main(String[] args) {

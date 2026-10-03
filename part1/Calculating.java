@@ -1,3 +1,7 @@
+package part1;
+
+// 1.5
+
 public class Calculating {
   public static void main(String[] args) {
     int x = 5;

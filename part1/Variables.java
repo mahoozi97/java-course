@@ -1,3 +1,5 @@
+package part1;
+
 // 1.4
 import java.util.Scanner;
 
